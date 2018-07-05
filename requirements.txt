@@ -1,0 +1,7 @@
+lxml
+pandas
+beautifulsoup4
+selenium
+openpyxl
+requests
+scrapy
